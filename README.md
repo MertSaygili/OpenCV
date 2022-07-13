@@ -1,1 +1,1 @@
-Informatin about OpenCV
+Information about OpenCV
